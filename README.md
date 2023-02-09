@@ -1,2 +1,2 @@
 # PrepCourse
-Ejercicios del Prep Course de Henry
+Excersies for the Prep Course of Henry (soyhenry.com)
